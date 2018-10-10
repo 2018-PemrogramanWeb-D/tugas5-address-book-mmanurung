@@ -1,0 +1,32 @@
+body{
+	font-size:15px;
+	background:#FFFAFA;
+}
+.add-btn{
+	margin-top:10px;
+}
+table tr th, table tr td{
+	font-size:15px;
+	padding:5px;
+}
+ul li{
+	list-style:none;
+	font-size:15px;
+}
+.button-group{
+	width:130px;
+	margin:auto;
+	text-align:center;
+}
+.button-group a{
+	margin:auto;
+}
+
+#loaderImage{
+	position:absolute;
+	top:120px;
+	left:50%;
+	width:100px;
+	/*z-index:100;*/
+	margin:100px auto 100px auto;
+}
